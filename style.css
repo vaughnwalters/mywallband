@@ -11,3 +11,9 @@ img {
   width: 300px;
   height: 100vh;
 }
+
+.widget-container {
+  width: 50rem;
+  padding: 10%;
+}
+
