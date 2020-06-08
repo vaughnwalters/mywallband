@@ -14,14 +14,14 @@ img {
 
 .widget-container {
   width: 50rem;
-  padding: 10%;
+  padding: 5%;
 }
 
 .video-container {
     overflow: hidden;
-    margin-top: 2rem;
+    margin: 5% 0;
     position: relative;
-    width:80%;
+    width: 80%;
 }
 
 .video-container::after {
@@ -41,5 +41,5 @@ img {
 .bandcamp-container {
     width: 100%;
     text-align: center;
-    padding: 2rem 0 0 0;
+    padding: 8%;
 }
